@@ -109,3 +109,74 @@ This project aims to create a digital directory for the 2003 batch of a school, 
      - Design the database and code to handle potential future expansions, such as additional alumni batches or more profile customization options.
 
 This document should serve as a comprehensive guideline for developers and designers, allowing them to deliver a complete solution that meets the requirements for the School Batch 2003 Directory.
+
+---
+
+# Project Goals and Objectives: School Batch 2003 Directory
+
+## **Goal Statement**
+To build a secure, user-friendly, and scalable platform that enables the 2003 batch of school alumni to connect, manage profiles, and participate in events, while providing an efficient backend for administrators to manage events and registrations seamlessly.
+
+---
+
+## **Key Objectives**
+
+### **1. User Empowerment**
+- Provide alumni with a comprehensive platform to maintain and manage their profiles.
+- Enable easy access to a well-organized directory for networking and communication.
+
+### **2. Event Engagement**
+- Facilitate seamless event creation and participation, ensuring alumni stay connected through organized events.
+- Offer a secure and flexible event registration process with multiple payment options.
+
+### **3. Administrative Efficiency**
+- Simplify event management for administrators, including registration tracking, payment updates, and database optimization.
+- Ensure completed event data is archived systematically to reduce database clutter while maintaining historical records.
+
+### **4. Scalability and Security**
+- Build a system capable of handling future expansions (e.g., new alumni batches, additional features).
+- Ensure robust security protocols to protect user data and prevent unauthorized access.
+
+### **5. User Experience**
+- Deliver a responsive, intuitive interface for both users and administrators, ensuring accessibility on all devices.
+- Incorporate features like search, filter, and sorting for easy navigation of the directory and event lists.
+
+---
+
+## **Success Criteria**
+
+### **1. Functional Goals**
+- 100% completion of features, including signup/login, profile management, directory listing, event management, and payment tracking.
+- A PDF archiving system for event registrations after event completion.
+
+### **2. Performance Goals**
+- Ensure the system can handle at least 1,000 active users with smooth performance.
+- Database optimization to handle large-scale data without unnecessary table clutter.
+
+### **3. User Satisfaction Goals**
+- Positive feedback from at least 90% of the batch members on usability and functionality.
+- Minimal support requests indicating ease of use.
+
+---
+
+## **Timeline for Completion**
+- **Planning and Design:** 4 weeks  
+- **Backend Development:** 8 weeks  
+- **Frontend Development:** 8 weeks  
+- **Testing and QA:** 2 weeks  
+- **Deployment and Feedback Gathering:** 1 week  
+
+**Total Duration:** 23 weeks (Approximately 6 months)
+
+---
+
+## **Deliverables**
+1. Fully functional School Batch 2003 Directory platform.
+2. Admin dashboard with event and user management capabilities.
+3. User manual and documentation for platform usage.
+4. Archived PDF records of completed event registrations.
+
+---
+
+This goal framework ensures the project stays aligned with user needs while maintaining scalability and operational efficiency.
+
